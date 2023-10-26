@@ -5,17 +5,17 @@ public:
             return 0;
         }
 
-        int numIslands = 0;
+        int Islands = 0;
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[0].size(); j++) {
                 if (grid[i][j] == '1') {
-                    numIslands++;
+                    Islands++;
                     dfs(grid, i, j);
                 }
             }
         }
 
-        return numIslands;
+        return Islands;
     }
 
 private:
