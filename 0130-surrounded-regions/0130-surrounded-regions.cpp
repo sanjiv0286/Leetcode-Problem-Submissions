@@ -1,8 +1,8 @@
 class Solution {
 public:
    void solve(vector<vector<char>>& board) {
-    // if (board.empty() || board[0].empty()) {
-    if (board.empty()) {
+    if (board.empty() || board[0].empty()) {
+    // if (board.empty()) {
 
         return;
     }
