@@ -1,35 +1,35 @@
 class Solution {
 public:
+
+    void dfs(int i,int j , int n,int m,vector<vector<char>>& grid){
+        if(i<0 ||i>=n||j<0 ||j>=m){
+            return;
+        }
+        if(grid[i][j]=='0'){
+            return;
+        }
+        grid[i][j]='0';
+        dfs(i-1,j,n,m,grid);
+        dfs(i+1,j,n,m,grid);
+        dfs(i,j-1,n,m,grid);
+        dfs(i,j+1,n,m,grid);
+    }
+
     int numIslands(vector<vector<char>>& grid) {
-        if (grid.empty()) {
+        if(grid.empty()){
             return 0;
         }
-
-        int Islands = 0;
-        for (int i = 0; i < grid.size(); i++) {
-            for (int j = 0; j < grid[0].size(); j++) {
-                if (grid[i][j] == '1') {
-                    Islands++;
-                    dfs(grid, i, j);
+        int n=grid.size();
+        int m = grid[0].size();
+        int ct=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j]=='1'){
+                    ct++;
+                    dfs(i,j,n,m,grid);
                 }
             }
         }
-
-        return Islands;
-    }
-
-private:
-    void dfs(vector<vector<char>>& grid, int row, int col) {
-        if (row < 0 || row >= grid.size() || col < 0 || col >= grid[0].size() || grid[row][col] == '0') {
-            return;
-        }
-
-        grid[row][col] = '0'; // Mark the current cell as visited
-
-        // Explore the neighboring cells
-        dfs(grid, row - 1, col); // Up
-        dfs(grid, row + 1, col); // Down
-        dfs(grid, row, col - 1); // Left
-        dfs(grid, row, col + 1); // Right
+        return ct;
     }
 };
