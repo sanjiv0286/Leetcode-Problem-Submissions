@@ -1,99 +1,73 @@
 class Solution
 {
 public:
-    void convert(vector<vector<char>> &board)
+    void convert(vector<vector<char>> &b, int n, int m)
     {
-        int n = board.size();
-        int m = board[0].size();
 
         for (int i = 0; i < n; i++)
         {
             for (int j = 0; j < m; j++)
             {
-                if (board[i][j] == 'B')
+                if (b[i][j] == 'O')
                 {
-                    board[i][j] = 'O';
+                    b[i][j] = 'X';
                 }
-                else if (board[i][j] == 'O')
+                else if (b[i][j] == 'B')
                 {
-                    board[i][j] = 'X';
+                    b[i][j] = 'O';
                 }
             }
         }
     }
 
-    bool isValid(int i, int j, int n, int m, vector<vector<char>> &board)
+    void dfs(int n, int m, int i, int j, vector<vector<char>> &b)
     {
-        if (i >= 0 && i < n && j >= 0 && j < m && board[i][j] == 'O')
-        {
-            return true;
-        }
-        return false;
+         if (i < 0 || i >= n || j < 0 || j >= m || b[i][j] != 'O')
+    {
+        return;
+    }
+    b[i][j] = 'B';
+    
+        dfs(n, m, i - 1, j, b);
+        dfs(n, m, i + 1, j, b);
+        dfs(n, m, i, j - 1, b);
+        dfs(n, m, i, j + 1, b);
     }
 
-    void dfs(vector<vector<char>> &board, int i, int j, int n, int m)
+    void solve(vector<vector<char>> &b)
     {
-        board[i][j] = 'B';
-
-        if (isValid(i + 1, j, n, m, board))
+        if (b.empty())
         {
-            dfs(board, i + 1, j, n, m);
+            return;
         }
-        if (isValid(i - 1, j, n, m, board))
-        {
-            dfs(board, i - 1, j, n, m);
-        }
-        if (isValid(i, j + 1, n, m, board))
-        {
-            dfs(board, i, j + 1, n, m);
-        }
-        if (isValid(i, j - 1, n, m, board))
-        {
-            dfs(board, i, j - 1, n, m);
-        }
-    }
-
-    void solve(vector<vector<char>> &board)
-    {
-        int n = board.size();
-        int m = board[0].size();
-
+        int n = b.size();
+        int m = b[0].size();
         for (int i = 0; i < n; i++)
         {
-
-            // left -> top bottom
             int j = 0;
-            if (board[i][j] == 'O')
+            if (b[i][j] == 'O')
             {
-                dfs(board, i, j, n, m);
+                dfs(n, m, i, j, b);
             }
-
             j = m - 1;
-            // right -> top bootm
-            if (board[i][j] == 'O')
+            if (b[i][j] == 'O')
             {
-                dfs(board, i, j, n, m);
+                dfs(n, m, i, j, b);
             }
         }
-
-        for (int j = 0; j < m; j++)
+        for (int j = 0; j < m - 1; j++)
         {
-
-            // top -> left right
             int i = 0;
-            if (board[i][j] == 'O')
+            if (b[i][j] == 'O')
             {
-                dfs(board, i, j, n, m);
+                dfs(n, m, i, j, b);
             }
-
             i = n - 1;
-            // bottom -> left right
-            if (board[i][j] == 'O')
+            if (b[i][j] == 'O')
             {
-                dfs(board, i, j, n, m);
+                dfs(n, m, i, j, b);
             }
         }
-
-        convert(board);
+        convert(b, n, m);
     }
 };
