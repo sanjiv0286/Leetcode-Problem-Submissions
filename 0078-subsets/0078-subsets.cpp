@@ -1,27 +1,19 @@
-#include <vector>
-
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> result;
-        vector<int> current_subset;
-        generateSubsets(nums, 0, current_subset, result);
-        return result;
-    }
+        vector<vector<int>> allSubsets;
+        int n = nums.size();
 
-private:
-    void generateSubsets(const vector<int>& nums, int index, vector<int>& current_subset, vector<vector<int>>& result) {
-        if (index == nums.size()) {
-            result.push_back(current_subset);
-            return;
+        for (int i = 0; i < (1 << n); i++) {
+            vector<int> subset;
+            for (int j = 0; j < n; j++) {
+                if (i & (1 << j)) {
+                    subset.push_back(nums[j]);
+                }
+            }
+            allSubsets.push_back(subset);
         }
 
-        // Include the current element
-        current_subset.push_back(nums[index]);
-        generateSubsets(nums, index + 1, current_subset, result);
-        current_subset.pop_back();
-
-        // Exclude the current element
-        generateSubsets(nums, index + 1, current_subset, result);
+        return allSubsets;
     }
 };
