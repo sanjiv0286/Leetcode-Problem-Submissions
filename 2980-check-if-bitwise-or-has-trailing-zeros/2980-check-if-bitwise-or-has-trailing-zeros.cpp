@@ -2,16 +2,18 @@ class Solution {
 public:
     bool hasTrailingZeros(vector<int>& nums) {
         int n = nums.size();
-        int num=0;
+        int ct=0;
         for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                num = nums[i]|nums[j];
-                if((num & 1) == 0){
-                    return true;
-                }
-                // num=0;
+            // for(int j=i+1;j<n;j++){
+                 if((nums[i]&1)==0){
+                     ct++;
+                 }
+// }
+            if(ct==2){
+                return true;
             }
-        }
-        return false;
+           
+}
+      return false;  
     }
 };
