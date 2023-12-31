@@ -9,7 +9,7 @@ public:
                      ct++;
                  }
 // }
-            if(ct==2){
+            if(ct>=2){
                 return true;
             }
            
