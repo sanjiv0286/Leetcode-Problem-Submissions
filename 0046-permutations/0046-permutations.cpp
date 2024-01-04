@@ -1,29 +1,22 @@
-#include <vector>
-
 class Solution {
 public:
-    vector<vector<int>> result;
     int n;
-
-    void solve(std::vector<int>& output, std::vector<int>& input) {
-        if (output.size() == n) {
-            result.push_back(output);
-            return;
+    vector<vector<int>>res;
+    void solve(int idx,vector<int>&nums){
+        if(idx==n){
+            res.push_back(nums);
+            return ;
         }
-        for (int i = 0; i < input.size(); i++) {
-            output.push_back(input[i]);
-            vector<int> tempinput(input);
-            tempinput.erase(tempinput.begin() + i);
-            solve(output, tempinput);
-            output.pop_back();
+        for(int i=idx;i<n;i++){
+            swap(nums[i],nums[idx]);
+            solve(idx+1,nums);
+            swap(nums[i],nums[idx]);
         }
     }
-
-    vector<vector<int>> permute(std::vector<int>& nums) {
-        n = nums.size();
-        vector<int> output;
-        vector<int> input(nums);
-        solve(output, input);
-        return result;
+    
+    vector<vector<int>> permute(vector<int>& nums) {
+       n = nums.size();
+       solve(0,nums);
+       return res;
     }
 };
