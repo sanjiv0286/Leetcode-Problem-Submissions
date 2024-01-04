@@ -1,25 +1,29 @@
+#include <vector>
+
 class Solution {
 public:
+    std::vector<std::vector<int>> result;
+    int n;
 
-vector<vector<int>> permute(vector<int>& nums) {
-	sort(nums.begin(),nums.end());
-    vector<vector<int>>ans;
-    do
-    {
-        ans.push_back(nums);
-    } while(next_permutation(nums.begin(),nums.end()));
-    return ans;
-}
-// ---------------------------------------
-//    vector<vector<int>> permute(vector<int>& nums) {
-//         sort(nums.begin(), nums.end());
-//         vector<vector<int>> ans;
-//        ans.push_back(nums);
-//         while (next_permutation(nums.begin(), nums.end())) {
-//             ans.push_back(nums);
-//         }
+    void solve(std::vector<int>& output, std::vector<int>& input) {
+        if (output.size() == n) {
+            result.push_back(output);
+            return;
+        }
+        for (int i = 0; i < input.size(); i++) {
+            output.push_back(input[i]);
+            std::vector<int> tempinput(input);
+            tempinput.erase(tempinput.begin() + i);
+            solve(output, tempinput);
+            output.pop_back();
+        }
+    }
 
-//         return ans;
-//     }
+    vector<std::vector<int>> permute(std::vector<int>& nums) {
+        n = nums.size();
+        std::vector<int> output;
+        std::vector<int> input(nums);
+        solve(output, input);
+        return result;
+    }
 };
-
