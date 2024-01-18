@@ -1,21 +1,13 @@
 class Solution {
 public:
-   bool isPrime(int num ){
-        for(int i=2;i*i<=num;i++){
-            if(num%i==0){
-                return false;
-            }
-            
-        }
-        return true;
-        
-      }
     bool isThree(int n) {
-        if(n==1||n==2||n==3){
-            return false;
-         }
-        int root = sqrt(n);
-        return ((root*root==n)&& isPrime(root));
+        int ct=0;
+        for(int i=1;i<=n;i++){
+            if(n%i==0){
+                ct++;
+            }
+        }
+        return (ct==3);
         
     }
 };
