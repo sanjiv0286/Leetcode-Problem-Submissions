@@ -1,25 +1,27 @@
 class Solution {
 public:
     int getLucky(string s, int k) {
-        string tem;
-        for(auto &x:s){
-            tem += to_string(x-'a'+1);
+        int n =s.size();
+        string temp = "";
+        for(int i=0;i<n;i++){
+            temp = temp + to_string(s[i]-'a'+1);
         }
-        int n=0;
-        for(auto &x : tem){
-            n += x-'0';
-            
+         int val =0;
+        for(auto & x: temp){
+             val += x-'0';
         }
-        int next ;
+        int ds;
         for(int i=1;i<k;i++){
-            next=0;
-            while(n){
-            next  +=  n%10;
-            n /= 10;
+            ds =0;
+            while(val!=0){
+                
+                ds = ds +val%10;
+                val /=10;
             }
-            n=next;
+            val = ds;
         }
-        return n;
+
+        return val ;
         
     }
 };
