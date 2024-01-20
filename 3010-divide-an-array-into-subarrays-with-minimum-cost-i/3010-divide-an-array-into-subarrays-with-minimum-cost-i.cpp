@@ -1,15 +1,8 @@
 class Solution {
 public:
-    int minimumCost(vector<int>& nums) {
-        int n = nums.size();
-         int sum =0;
-        sum = sum +nums[0];
-        vector<int>v(nums.begin()+1,nums.end());
-        sort(v.begin(),v.end());
-        sum += v[0]+v[1];
-        return sum;
+    int minimumCost(vector<int>& v) {
+        sort(v.begin() + 1, v.end());
         
+        return v[0] + v[1] + v[2];
     }
 };
-
-
