@@ -1,10 +1,11 @@
 class Solution {
 public:
     bool isPowerOfTwo(int n) {
-        int ans = __builtin_popcountll(n);
-        if(ans==1){
+        if(n<=0)
+            return false;
+        if ((n & (n - 1)) != 0)
+            return false;
+        else
             return true;
-        }
-        return false;
     }
 };
