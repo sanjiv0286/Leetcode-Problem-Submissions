@@ -1,10 +1,9 @@
 class Solution {
 public:
-    bool containsDuplicate(vector<int>& v) {
+    bool containsDuplicate(vector<int>& nums) {
         unordered_map<int,int>m;
-        for(auto &x:v){
+        for(auto &x:nums){
             m[x]++;
-
         }
         for(auto &x:m){
             if(x.second>=2){
@@ -12,5 +11,6 @@ public:
             }
         }
         return false;
+        
     }
 };
