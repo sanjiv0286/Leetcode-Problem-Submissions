@@ -1,20 +1,42 @@
+// without sorting 
 class Solution {
 public:
-    vector<vector<string>> groupAnagrams(vector<string>& str) {
-        vector<vector<string>> res;
-        int n = str.size();
-        map<string, vector<string>> m;
-        for (int i = 0; i < n; i++) {
-            string s = str[i];
-            sort(s.begin(), s.end());
-            m[s].push_back(str[i]); // Corrected line
+
+    string generate(string &s) {
+        // int count[26] = {0};
+        vector<int>freq(26,0);
+        for(char &ch : s) {
+            freq[ch-'a']++;
         }
 
-        for (auto& x : m) {
-            // if(m.find(x)!=m.end()){
-            res.push_back(x.second);
+        string new_s;
+
+        for(int i = 0; i<26; i++) {
+
+            if(freq[i] > 0) {
+                new_s += string(freq[i], i+'a');
+            }
         }
 
-        return res;
+        return new_s;
+    }
+
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        unordered_map<string, vector<string>> mp;
+
+        for(string &str : strs) {
+            string s = generate(str);
+
+            mp[s].push_back(str);
+        }
+
+        vector<vector<string>> result;
+        for(auto &x : mp) {
+            result.push_back((x.second));
+        }
+
+        return result;
+
     }
 };
+
