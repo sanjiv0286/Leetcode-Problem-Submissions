@@ -1,19 +1,22 @@
+//Approach (Using nums[i] as index)
+//T.C : O(n)
+//S.C : O(1)
 class Solution {
 public:
     int findMaxK(vector<int>& nums) {
-        sort(nums.begin(),nums.end(),greater<int>());
-        int n = nums.size();
-        unordered_set<int>s;
-        for(int i=0;i<n;i++){
-             s.insert(nums[i]);    
+        int result = -1;
+   
+        int arr[2001] = {0};
+
+        for (int num : nums) {
+
+            if (arr[-num + 1000] == 1)
+                result = max(result, abs(num));
+
+            // Mark the current number as seen
+            arr[num + 1000] = 1;
         }
-        for(int i=0;i<n;i++){
-            if(s.find(-(nums[i]))!=s.end()){
-                int ans = nums[i];
-                return ans;
-            }
-        }
-        return -1;
-        
+
+        return result;
     }
 };
