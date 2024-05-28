@@ -1,25 +1,25 @@
 class Solution {
 public:
-    vector<int> occurrencesOfElement(vector<int>& v, vector<int>& q, int x) {
-        unordered_map<int, int> m;
+    vector<int> occurrencesOfElement(vector<int>& nums, vector<int>& q, int x) {
         vector<int>res;
-        int n = v.size();
-        int c=1;
-        for (int i = 0; i < n; i++) {
-            if (v[i] == x) {
-                m[c]=i;
-                c++;
+        vector<int>po;
+        int n = nums.size();
+        for(int i=0;i<n;i++){
+            if(nums[i]==x){
+                po.push_back(i);   
             }
         }
         for(int i=0;i<q.size();i++){
-            int occ= q[i];
-            if(occ>=c){
+            int occ = q[i];
+            if(occ > po.size()){
                 res.push_back(-1);
             }
             else{
-                res.push_back(m[occ]);
+                res.push_back(po[occ-1]);
             }
+        
         }
         return res;
+        
     }
 };
