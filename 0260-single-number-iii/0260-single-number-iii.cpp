@@ -1,3 +1,5 @@
+// tc : O(n^2)  - > not optimized solution 
+
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
