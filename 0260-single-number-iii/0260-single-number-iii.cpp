@@ -14,7 +14,9 @@ public:
         }
         int res1=0,res2=0;
         // then i calculate the right most bit using xor property 
-        int num = (zor & ~(zor-1));
+        // int num = (zor & ~(zor-1));
+                int num = (zor & (-zor));
+
         for (int i=0;i<n;i++){
             if((nums[i]&num)!=0){
                 res1 = res1 ^ nums[i];
