@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
@@ -24,3 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0074-search-a-2d-matrix) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
