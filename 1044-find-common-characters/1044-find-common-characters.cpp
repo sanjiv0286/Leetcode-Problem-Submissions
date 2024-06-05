@@ -1,29 +1,22 @@
 class Solution {
 public:
     vector<string> commonChars(vector<string>& a) {
-        // write your code here
-        vector<string>res;     
-        // sort(a.begin(), a.end());
-
-        
+        vector<string> v;
         int n = a.size();
-       
-        for(auto &c:a[0]){
-             bool common=true;
-            for(int i=1;i<n;i++){
-                if(a[i].find(c)==string::npos){
-                    common = false;
-                break;
+        for (auto& x : a[0]) {
+            int common = 1;
+            for (int i = 1; i < n; i++) {
+                if (a[i].find(x) == string::npos) {
+                    common = 0;
+                    break;
                 } else {
-                    a[i].erase(a[i].find(c), 1);
+                    a[i].erase(a[i].find(x), 1);
                 }
             }
-            if(common){
-                res.push_back(string(1,c));
-                
+            if (common == 1) {
+                v.push_back(string(1, x));
             }
-            
         }
-        return res;
+        return v;
     }
 };
