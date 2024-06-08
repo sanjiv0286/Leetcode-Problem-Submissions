@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0792-binary-search) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0523-continuous-subarray-sum) |
 # Prefix Sum
 |  |
