@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
-
         unordered_map<int, int> m;
         m[0] = -1;
         int sum = 0;
@@ -13,7 +12,7 @@ public:
             if (m.find(rem) != m.end()) {
                 if (i - m[rem] >= 2) {
                     return true;
-                }
+                }   
 
             } else {
                 m[rem] = i;
