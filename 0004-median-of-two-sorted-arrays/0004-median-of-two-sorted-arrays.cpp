@@ -1,33 +1,27 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& A, vector<int>& B) {
-
-        int m = A.size();
-        int n = B.size();
-        if (m>n) {
-            return findMedianSortedArrays(B, A);
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        vector<double> res;
+        int n = nums1.size();
+        int m = nums2.size();
+        for (int i = 0; i < n; i++) {
+            res.push_back(nums1[i]);
         }
-        int start = 0;
-        int end = m;
-        while (start <= end) {
-            int i1 = (start + end) / 2;
-            int i2 = ((n + m + 1) / 2) - i1;
-             long long max1 = (i1 == 0) ? INT_MIN : A[i1 - 1];
-            long long max2 = (i2 == 0) ? INT_MIN : B[i2 - 1];
-            long long min1 = (i1 == m) ? INT_MAX : A[i1];
-            long long min2 = (i2 == n) ? INT_MAX : B[i2];
-            if (max1 <= min2 && max2 <= min1) {
-                if ((n + m) % 2 == 0) {
-                    return (double)(max(max1, max2) + min(min1, min2)) / 2;
-                } else {
-                    return (double)(max(max1, max2));
-                }
-            } else if (max1 > min2) {
-                end = i1 - 1;
-            } else {
-                start = i1 + 1;
-            }
+        for (int i = 0; i <m; i++) {
+            res.push_back(nums2[i]);
         }
-        return 0.0;
+        sort(res.begin(), res.end());
+        int  size = res.size();
+        double ans =0;
+        if (res.size() % 2 == 0) {
+             ans = res[size / 2] + res[(size / 2) - 1];
+             return ans/2;
+        }
+        else{
+            ans =  res[size/2];
+            return ans;
+            
+        }
+        
     }
 };
