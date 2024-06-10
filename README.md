@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0907-koko-eating-bananas) |
 | [1044-find-common-characters](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1137-height-checker) |
 # Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1137-height-checker) |
 # Trie
 |  |
 | ------- |
@@ -73,3 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0523-continuous-subarray-sum) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1137-height-checker) |
