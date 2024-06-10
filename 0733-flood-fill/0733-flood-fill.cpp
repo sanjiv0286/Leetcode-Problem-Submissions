@@ -1,29 +1,32 @@
 class Solution {
 public:
-void dfs (int i,int j,int n,int m , int color , int newcolor , vector<vector<int>>& image){
-    if(i<0||i>=n||j<0||j>=m||image[i][j]!=color){
-        return;
-    }
-    image[i][j]=newcolor;
-    dfs(i-1,j,n,m,color,newcolor,image);
-    dfs(i+1,j,n,m,color,newcolor,image);
-    dfs(i,j-1,n,m,color,newcolor,image);
-    dfs(i,j+1,n,m,color,newcolor,image);
+    void dfs(vector<vector<int>>& image, int r, int c, int color, int newColor,
+             int n, int m) {
+        if (r < 0 || r > n - 1 || c < 0 || c > m - 1 ||
+            image[r][c] != color) {
+            return;
+        }
 
-}
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int i, int j, int newcolor) {
+        image[r][c] = newColor;
+
+        dfs(image, r - 1, c, color, newColor, n, m);
+        dfs(image, r + 1, c, color, newColor, n, m);
+        dfs(image, r, c - 1, color, newColor, n, m);
+        dfs(image, r, c + 1, color, newColor, n, m);
+    }
+
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
+                                  int new_color) {
+        if (image.empty()) {
+            return image;
+        }
+        int Color = image[sr][sc];
+        // int new_color = color;
         int n = image.size();
         int m = image[0].size();
-
-       int color = image[i][j];
-         if (color == newcolor) {
-            return image;  
+       if(Color!=new_color){
+             dfs(image, sr, sc, Color, new_color, n, m);
         }
-       if (color != newcolor) {
-            dfs(i, j, n, m, color, newcolor, image);
-        }
-       return image;        
-
-        
+        return image;
     }
 };
