@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0069-sqrtx](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0523-continuous-subarray-sum) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 # Prefix Sum
 |  |
 | ------- |
@@ -104,3 +105,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
+# Linked List
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+# Stack
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
