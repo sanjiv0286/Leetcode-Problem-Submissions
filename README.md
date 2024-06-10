@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0648-replace-words) |
@@ -113,3 +114,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0131-palindrome-partitioning) |
+# Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0131-palindrome-partitioning) |
