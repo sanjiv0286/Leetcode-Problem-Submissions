@@ -85,3 +85,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+# Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
+# Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
+# Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
+# Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
