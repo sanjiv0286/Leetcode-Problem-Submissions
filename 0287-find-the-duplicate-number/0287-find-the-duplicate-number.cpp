@@ -1,5 +1,7 @@
 class Solution {
 public:
+// hair and tortoise method 
+// tc O(n)  sc O(n)
     int findDuplicate(vector<int>& nums) {
 
         int slow = nums[0];
