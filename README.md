@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0907-koko-eating-bananas) |
 # Matrix
@@ -140,3 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0131-palindrome-partitioning) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
