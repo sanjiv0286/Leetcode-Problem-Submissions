@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0523-continuous-subarray-sum) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0648-replace-words) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0169-majority-element) |
 | [0876-hand-of-straights](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1217-relative-sort-array) |
@@ -94,12 +97,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1217-relative-sort-array) |
 # Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0169-majority-element) |
 # Depth-First Search
 |  |
 | ------- |
