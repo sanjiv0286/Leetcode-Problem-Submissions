@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0502-ipo](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0523-continuous-subarray-sum) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0502-ipo) |
