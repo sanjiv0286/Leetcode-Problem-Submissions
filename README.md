@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0523-continuous-subarray-sum) |
