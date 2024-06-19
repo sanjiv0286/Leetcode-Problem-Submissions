@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Matrix
 |  |
 | ------- |
