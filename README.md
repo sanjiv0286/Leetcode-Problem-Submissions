@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1137-height-checker) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0876-hand-of-straights) |
+| [0966-binary-subarrays-with-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1217-relative-sort-array) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0523-continuous-subarray-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 # Counting Sort
 |  |
 | ------- |
@@ -184,4 +187,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sliding Window
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1138-grumpy-bookstore-owner) |
