@@ -1,31 +1,31 @@
 class Solution {
 public:
-    int longestSubarray(vector<int>& nums, int limit) {
-        deque<int> minDeque, maxDeque; // To store indices of the elements
-        int i = 0, maxLen = 0;
+    int longestSubarray(const vector<int>& nums, int limit) {
+        int n = nums.size();
+        int i = 0;      // Left pointer
+        int maxLen = 0; // To track the maximum length of valid subarray
 
-        for (int j = 0; j < nums.size(); ++j) {
-            // Maintain the max deque to be in descending order
-            while (!maxDeque.empty() && nums[maxDeque.back()] <= nums[j]) {
-                maxDeque.pop_back();
-            }
-            maxDeque.push_back(j);
+        // Multiset to store the current window elements sorted
+        multiset<int> window;
 
-            // Maintain the min deque to be in ascending order
-            while (!minDeque.empty() && nums[minDeque.back()] >= nums[j]) {
-                minDeque.pop_back();
-            }
-            minDeque.push_back(j);
+        for (int j = 0; j < n; ++j) { // Right pointer
+            // Insert the current element into the window
+            window.insert(nums[j]);
 
-            // If the current window is invalid, move the left pointer (i)
-            while (nums[maxDeque.front()] - nums[minDeque.front()] > limit) {
-                i++;
-                // Remove the indices which are out of the new window
-                if (maxDeque.front() < i) {
-                    maxDeque.pop_front();
-                }
-                if (minDeque.front() < i) {
-                    minDeque.pop_front();
+            // Check the current minimum and maximum in the window
+            int minVal = *window.begin();  // Minimum element in the window
+            int maxVal = *window.rbegin(); // Maximum element in the window
+
+            // If the difference between max and min exceeds the limit
+            while (maxVal - minVal > limit) {
+                // Remove the element at the left pointer from the window
+                window.erase(window.find(nums[i]));
+                i++; // Move the left pointer to shrink the window
+
+                // Update the min and max values in the window
+                if (!window.empty()) {
+                    minVal = *window.begin();
+                    maxVal = *window.rbegin();
                 }
             }
 
