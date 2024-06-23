@@ -1,28 +1,38 @@
+// (Using sliding window + heap)
+//T.C : O(nlogn)
+//S.C : O(n)
 class Solution {
 public:
-    int longestSubarray(const vector<int>& nums, int limit) {
+    typedef pair<int, int> P;
+
+    int longestSubarray(vector<int>& nums, int limit) {
         int n = nums.size();
+        priority_queue<P> maxPq;
+        priority_queue<P, vector<P>, greater<P>> minPq;
+
         int i = 0;
-        int maxLen = 0;
-        multiset<int> window;
-        for (int j = 0; j < n; ++j) {
-            window.insert(nums[j]);
+        int j = 0;
+        int maxLength = 0;
 
-            int minVal = *window.begin();
-            int maxVal = *window.rbegin();
+        while (j < n) {
+            maxPq.push({nums[j], j});
+            minPq.push({nums[j], j});
 
-            while (maxVal - minVal > limit) {
-                window.erase(window.find(nums[i]));
-                i++;
-                if (!window.empty()) {
-                    minVal = *window.begin();
-                    maxVal = *window.rbegin();
+            while (maxPq.top().first - minPq.top().first > limit) {
+                i = min(maxPq.top().second, minPq.top().second) + 1;
+
+                while (maxPq.top().second < i) {
+                    maxPq.pop();
+                }
+                while (minPq.top().second < i) {
+                    minPq.pop();
                 }
             }
 
-            maxLen = max(maxLen, j - i + 1);
+            maxLength = max(maxLength, j - i + 1);
+            j++;
         }
 
-        return maxLen;
+        return maxLength;
     }
 };
