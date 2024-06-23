@@ -208,3 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1908-recyclable-and-low-fat-products) |
