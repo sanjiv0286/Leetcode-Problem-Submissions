@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
 # Breadth-First Search
 |  |
@@ -214,3 +215,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1908-recyclable-and-low-fat-products) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
