@@ -249,3 +249,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1285-balance-a-binary-search-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1773-percentage-of-users-attended-a-contest) |
+<!---LeetCode Topics End-->
