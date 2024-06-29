@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1182-game-play-analysis-iv](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1338-queries-quality-and-percentage) |
