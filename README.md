@@ -268,4 +268,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1801-average-time-of-process-per-machine](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1908-recyclable-and-low-fat-products) |
+## Depth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Graph
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
