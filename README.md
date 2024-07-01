@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1153-product-sales-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1182-game-play-analysis-iv) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1317-monthly-transactions-i) |
