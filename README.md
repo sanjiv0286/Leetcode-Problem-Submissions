@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1908-recyclable-and-low-fat-products](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Depth-First Search
 |  |
