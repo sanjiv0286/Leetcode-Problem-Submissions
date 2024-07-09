@@ -1,0 +1,1 @@
+select l1.num as ConsecutiveNums from logs as l1 , logs as l2 , logs as l3 where l1.id - l2.id = 1 && l2.id -l3.id =1 && l1.num = l2.num && l2.num = l3.num group by l1.num
