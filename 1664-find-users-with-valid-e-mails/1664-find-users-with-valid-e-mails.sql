@@ -1,3 +1,8 @@
+select * from users where mail regexp '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode[.]com$';
+
+-- -----------------------------------------------------------
+-- -----------------------------------------------------------
+
 -- ^[a-zA-Z] - The first character is a letter
 -- [a-zA-Z0-9_.-]* - The accepted characters after the first repeated 0 or more times
 -- @leetcode\.com$ - The email must end with the string '@leetcode.com'
@@ -5,10 +10,10 @@
 -- -----------------------------------------------------------
 -- -----------------------------------------------------------
 
-select user_id,name,mail
-from users
-where
-regexp_like (mail,'^[a-z]+[0-9a-zA-Z_.-]*@leetcode[.]{1}com$')
+-- select user_id,name,mail
+-- from users
+-- where
+-- regexp_like (mail,'^[a-z]+[0-9a-zA-Z_.-]*@leetcode[.]{1}com$')
 
 -- -----------------------------------------------------------
 -- -----------------------------------------------------------
