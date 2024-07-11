@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0176-second-highest-salary](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0584-find-customer-referee) |
