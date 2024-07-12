@@ -11,3 +11,18 @@ group by m.movie_id
 order by avg(mr.rating) desc ,m.title
 limit 1
 )
+
+-- In SQL, UNION and UNION ALL are both used to combine the results of two or more SELECT statements. However, there are key differences between the two:
+
+-- ************************ UNION *********************************:
+
+-- Combines the results of two or more SELECT statements into a single result set.
+-- Removes duplicate rows from the result set.
+-- Performs a DISTINCT operation on the result set.
+
+
+-- ********************* UNION ALL ********************************:
+
+-- Combines the results of two or more SELECT statements into a single result set.
+-- Includes all rows from the result sets, including duplicates.
+-- Does not perform a DISTINCT operation, making it faster than UNION.
