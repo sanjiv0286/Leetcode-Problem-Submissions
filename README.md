@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0596-classes-more-than-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0610-triangle-judgement) |
