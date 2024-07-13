@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1720-crawler-log-folder) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
@@ -352,11 +353,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
