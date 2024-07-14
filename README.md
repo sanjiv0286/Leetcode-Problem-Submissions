@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0392-is-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0443-string-compression) |
+| [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1720-crawler-log-folder) |
@@ -430,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
