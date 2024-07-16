@@ -1,75 +1,88 @@
-#include <unordered_map>
-
-struct Node {
-    int key;
-    int value;
-    Node* prev;
-    Node* next;
-    Node(int k, int v) : key(k), value(v), prev(nullptr), next(nullptr) {}
-};
-
 class LRUCache {
-private:
-    int capacity;
-    std::unordered_map<int, Node*> cache;
-    Node* head;
-    Node* tail;
-
-    void remove(Node* node) {
-        if (node->prev) {
-            node->prev->next = node->next;
-        } else {
-            head = node->next;
-        }
-        if (node->next) {
-            node->next->prev = node->prev;
-        } else {
-            tail = node->prev;
-        }
-    }
-
-    void insertToHead(Node* node) {
-        node->next = head;
-        node->prev = nullptr;
-        if (head) {
-            head->prev = node;
-        }
-        head = node;
-        if (!tail) {
-            tail = head;
-        }
-    }
-
 public:
-    // Constructor for initializing the cache capacity with the given value.
-    LRUCache(int cap) : capacity(cap), head(nullptr), tail(nullptr) {}
+    list<int> dll;
+    map<int, pair<list<int>::iterator, int>> mp;
+    int n;
+    LRUCache(int capacity) { n = capacity; }
 
-    // Function to return value corresponding to the key.
+    void solve(int key) {
+        dll.erase(mp[key].first);
+        dll.push_front(key);
+        mp[key].first = dll.begin();
+    }
+
     int get(int key) {
-        if (cache.find(key) == cache.end()) {
+        if (mp.find(key) == mp.end()) {
             return -1;
         }
-        Node* node = cache[key];
-        remove(node);
-        insertToHead(node);
-        return node->value;
+        solve(key);
+        return mp[key].second;
     }
 
-    // Function for storing key-value pair.
     void put(int key, int value) {
-        if (cache.find(key) != cache.end()) {
-            Node* node = cache[key];
-            node->value = value;
-            remove(node);
-            insertToHead(node);
+
+        if (mp.find(key) != mp.end()) {
+            mp[key].second = value;
+            solve(key);
+
         } else {
-            if (cache.size() >= capacity) {
-                cache.erase(tail->key);
-                remove(tail);
-            }
-            Node* newNode = new Node(key, value);
-            insertToHead(newNode);
-            cache[key] = newNode;
+            dll.push_front(key);
+            mp[key] = {dll.begin(), value};
+            n--;
+        }
+        if (n < 0) {
+            mp.erase(dll.back());
+            dll.pop_back();
+            n++;
         }
     }
 };
+
+/**
+ * Your LRUCache object will be instantiated and called as such:
+ * LRUCache* obj = new LRUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
+
+// class LRUCache {
+// public:
+//     list<int> dll; //it contains the key
+//     map<int, pair<list<int>::iterator, int>> cache; //key->(list_node, value)
+//     int capacity;
+
+//     LRUCache(int capacity) {
+//         this->capacity = capacity;
+//     }
+
+//     void makeMostRecentlyUsed(int key) {
+//         dll.erase(cache[key].first);
+//         dll.push_front(key);
+//         cache[key].first = dll.begin();
+//     }
+
+//     int get(int key) {
+//         if(!cache.count(key))
+//             return -1;
+
+//         makeMostRecentlyUsed(key);
+//         return cache[key].second;
+//     }
+
+//     void put(int key, int value) {
+//         if(cache.count(key)) {
+//             cache[key].second = value;
+//             makeMostRecentlyUsed(key);
+//         } else {
+//             dll.push_front(key);
+//             cache[key] = {dll.begin(), value};
+//             capacity--;
+//         }
+
+//         if(capacity < 0) {
+// cache.erase(dll.back());
+// dll.pop_back();
+// capacity++;
+//         }
+//     }
+// };
