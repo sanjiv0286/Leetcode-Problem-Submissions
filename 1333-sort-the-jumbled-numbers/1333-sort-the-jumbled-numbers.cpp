@@ -12,7 +12,8 @@ public:
             string s = "";
             string temp = to_string(nums[i]);
             for (int j = 0; j < temp.size(); j++) {
-                s += to_string(mp[temp[j] - '0']);
+                // s += to_string(mp[temp[j] - '0']);
+                s+= to_string(mp[temp[j]-'0']);
             }
             int ele = stoi(s);
             res.push_back({ele, i});
