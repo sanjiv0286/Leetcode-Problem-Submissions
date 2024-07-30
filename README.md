@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0443-string-compression) |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
@@ -542,4 +543,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1511-count-number-of-teams) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
