@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
 | [1196-filling-bookcase-shelves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1196-filling-bookcase-shelves) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -553,4 +555,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
