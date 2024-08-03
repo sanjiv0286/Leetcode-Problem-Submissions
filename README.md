@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -488,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [1196-filling-bookcase-shelves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1511-count-number-of-teams) |
