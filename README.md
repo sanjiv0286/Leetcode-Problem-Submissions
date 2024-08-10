@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0820-find-eventual-safe-states) |
+| [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0820-find-eventual-safe-states) |
+| [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0200-number-of-islands) |
+| [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2121-find-if-path-exists-in-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Array
@@ -361,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
 | [1196-filling-bookcase-shelves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1196-filling-bookcase-shelves) |
@@ -392,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
+| [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -466,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
+| [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
