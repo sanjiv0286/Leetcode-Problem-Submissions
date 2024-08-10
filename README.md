@@ -499,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0443-string-compression) |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1720-crawler-log-folder) |
@@ -533,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
 | [1196-filling-bookcase-shelves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
