@@ -1,3 +1,6 @@
+// dp bottom up +greedy
+
+
 class Solution {
 public:
     int dp[1001];
