@@ -1,25 +1,25 @@
 class Solution {
 public:
-    int solve(int n, int curra, int copied) {
-        if (curra == n) {
-            return 0;
-        }
-        if (curra > n) {
-            return 1e9;
-        }
-
-        int copyPaste = 2 + solve(n, curra + curra, curra);
-
-        int paste = 1 + solve(n, curra + copied, copied);
-
-        return min(copyPaste, paste);
-    }
-
+    int dp[1001];
     int minSteps(int n) {
-        if (n == 1) {
-            return 0;
+
+        dp[1] = 0;
+        dp[2] = 2;
+
+        for (int i = 3; i <= n; i++) {
+            int factor = i / 2;
+            while (factor >= 1) {
+                if (i % factor == 0) {
+                    int steps_to_print_factor_as = dp[factor];
+                    int copy = 1;
+                    int pasted = (i / factor) - 1;
+                    dp[i] = steps_to_print_factor_as + copy + pasted;
+                    break;
+                } else {
+                    factor--;
+                }
+            }
         }
-        return 1 + solve(n, 1, 1);
+        return dp[n];
     }
 };
-
