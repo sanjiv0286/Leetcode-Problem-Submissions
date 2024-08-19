@@ -1,24 +1,25 @@
 class Solution {
 public:
-    int minSteps(int n) {
-        int curr = 1;
-        int prev = 0;
-        int steps = 0;
-
-        while (curr < n) {
-            if (n % curr == 0) {
-
-                prev = curr;  // copy
-                curr += prev; // paste
-
-                steps += 2; // 2 steps
-
-            } else {
-
-                curr += prev; // paste
-                steps++;      // 1 step
-            }
+    int solve(int n, int curra, int copied) {
+        if (curra == n) {
+            return 0;
         }
-        return steps;
+        if (curra > n) {
+            return 1e9;
+        }
+
+        int copyPaste = 2 + solve(n, curra + curra, curra);
+
+        int paste = 1 + solve(n, curra + copied, copied);
+
+        return min(copyPaste, paste);
+    }
+
+    int minSteps(int n) {
+        if (n == 1) {
+            return 0;
+        }
+        return 1 + solve(n, 1, 1);
     }
 };
+
