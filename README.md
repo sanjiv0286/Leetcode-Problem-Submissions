@@ -503,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2645-pass-the-pillow) |
+| [3199-distribute-candies-among-children-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3199-distribute-candies-among-children-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
 ## Recursion
@@ -653,4 +654,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
