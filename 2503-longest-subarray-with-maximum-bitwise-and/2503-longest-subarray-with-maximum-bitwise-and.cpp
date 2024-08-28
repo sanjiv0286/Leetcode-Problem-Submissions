@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int maxVal = *max_element(nums.begin(), nums.end()); // Find the maximum element in the array
+        int maxVal = *max_element(nums.begin(), nums.end());
         int longest = 0;
         int currentLength = 0;
         
