@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0739-daily-temperatures) |
+| [0906-walking-robot-simulation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
+| [0906-walking-robot-simulation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0059-spiral-matrix-ii) |
+| [0906-walking-robot-simulation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
