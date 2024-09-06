@@ -22,12 +22,13 @@ public:
        while(curr!=NULL){
           if(st.find(curr->val)!=st.end()){
               prev->next = curr->next;
-            //   delete curr;
+              delete curr;
           }
           else{
             prev = curr ;
           }
-          curr = curr->next;
+        //   prev->next = curr->next;
+          curr = prev->next;
        }
        return first.next;
         
