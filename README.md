@@ -428,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1720-crawler-log-folder](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -721,12 +723,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2504-find-all-good-indices](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2504-find-all-good-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
