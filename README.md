@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0539-minimum-time-difference](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0733-flood-fill) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0539-minimum-time-difference](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0539-minimum-time-difference) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
@@ -533,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1013-fibonacci-number) |
@@ -563,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
