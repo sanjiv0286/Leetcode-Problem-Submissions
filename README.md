@@ -703,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Monotonic Stack
 |  |
 | ------- |
