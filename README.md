@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0088-merge-sorted-array) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
