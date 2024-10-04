@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2504-find-all-good-indices) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
 | [2873-prime-pairs-with-target-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2873-prime-pairs-with-target-sum) |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -486,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
