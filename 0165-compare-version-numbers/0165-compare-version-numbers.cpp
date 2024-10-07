@@ -1,29 +1,3 @@
-// class Solution {
-// public:
-//     int compareVersion(string v1, string v2) {
-//         int n = v1.size();
-//         int m = v2.size();
-//         for(int i=0;i<n;i++){
-//              if((v1[i-1]=='.'&&v1[i]==0)|| (v2[i-1]=='.'&&v2[i]==0)){
-//                if(v1[i]==0)
-//                v1.erase(i,1);
-//                 if(v2[i]==0){
-//                    v2.erase(i,1);
-//                }
-//            }
-//            else if(v1[i]<v2[i]){
-//                 return -1;
-//             }
-//             else if(v1[i]>v2[i]){
-//                 return 1;
-//             }
-           
-//         }
-//         return 0;
-        
-        
-//     }
-// };
 
 class Solution {
 public:
