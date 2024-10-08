@@ -1,24 +1,16 @@
 class Solution {
 public:
-    int notbalance(string s) {
-        int imbalance = 0;
-        int count = 0;
+    int minSwaps(string s) {
+        stack<char>st;
 
-        for (char c : s) {
-            if (c == '[') {
-                count++;
-            } else {
-                count--;
+        for(auto & x: s){
+            if(x=='['){
+                st.push(x);
             }
-
-            if (count < 0) {
-                imbalance++;
-                count = 0;
+            else if(!st.empty()){
+                st.pop();
             }
         }
-
-        return imbalance;
+        return (st.size()+1)/2;
     }
-
-    int minSwaps(string s) { return (notbalance(s) + 1) / 2; }
 };
