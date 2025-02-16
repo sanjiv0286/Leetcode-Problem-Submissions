@@ -1,15 +1,20 @@
 class Solution {
 public:
-    void reverseString(vector<char>& v) {
-int n = v.size();
-        string s ="";
-        for(int i=0;i<n;i++){
-            s += v[i];
+    void reverseString(vector<char>& s) {
 
-        }
-        reverse(s.begin(),s.end());
+        int n = s.size();
+
+        string t ="";
+
         for(int i=0;i<n;i++){
-            v[i]=s[i];
+            t+=s[i];
         }
+
+        reverse(t.begin(),t.end());
+
+        for(int i=0;i<n;i++){
+            s[i] = t[i];
+        }
+        
     }
 };
