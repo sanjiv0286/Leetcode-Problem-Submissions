@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2486-most-frequent-even-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2504-find-all-good-indices) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2486-most-frequent-even-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2486-most-frequent-even-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2486-most-frequent-even-element) |
 ## Shortest Path
 |  |
 | ------- |
