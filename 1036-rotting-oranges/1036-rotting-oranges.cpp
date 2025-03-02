@@ -33,16 +33,18 @@ public:
                 int ncol = c + dcol[i];
                 if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n &&
                     grid[nrow][ncol] == 1) {
-                    ct++;
+                    // ct++;
+                    cntfresh--;
                     grid[nrow][ncol] = 2;
                     q.push({{nrow, ncol}, t + 1});
                 }
             }
         }
-        if (ct == cntfresh) {
-            return max_time;
-        } else {
-            return -1;
-        }
+        // if (ct == cntfresh) {
+        //     return max_time;
+        // } else {
+        //     return -1;
+        // }
+        return (cntfresh ==0 ? max_time : -1);
     }
 };
