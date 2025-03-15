@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2873-prime-pairs-with-target-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2873-prime-pairs-with-target-sum) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0792-binary-search) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -821,4 +824,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
