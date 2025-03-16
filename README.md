@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0273-integer-to-english-words) |
@@ -624,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0179-largest-number) |
