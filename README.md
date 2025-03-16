@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
@@ -594,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
 | [0165-compare-version-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0165-compare-version-numbers) |
