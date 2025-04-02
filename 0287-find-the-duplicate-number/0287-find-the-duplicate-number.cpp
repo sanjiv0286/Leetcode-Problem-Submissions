@@ -1,23 +1,16 @@
 class Solution {
 public:
-// hair and tortoise method 
-// tc O(n)  sc O(n)
     int findDuplicate(vector<int>& nums) {
+        unordered_map<int,int>mp;
 
-        int slow = nums[0];
-        int fast = nums[0];
-
-        slow = nums[slow];
-        fast = nums[nums[fast]];
-        while (slow != fast) {
-            slow = nums[slow];
-            fast = nums[nums[fast]];
+        for(auto &x:nums)     {
+            mp[x]++;
+        }   
+        for(auto &x:mp){
+            if(x.second>1){
+                return x.first;
+            }
         }
-        slow = nums[0];
-        while(slow != fast){
-            slow = nums[slow];
-            fast = nums[fast];
-        }
-        return slow ;
+        return -1;
     }
 };
