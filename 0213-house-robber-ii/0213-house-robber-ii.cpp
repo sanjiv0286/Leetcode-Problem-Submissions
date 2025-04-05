@@ -1,37 +1,31 @@
-
-
 class Solution {
 public:
-    // int dp[101];
-
-    int solve(vector<int>& nums, int r, int l) {
-        int prevPrev = 0, prev = 0;
-        for (int i = l; i <= r; i++) {
-            int skip = prev;
-            int take = nums[i] + prevPrev;
-            int temp = max(skip, take);
-            prevPrev = prev;
-            prev = temp;
+    int dp[101];
+    int solve(int i, int n, vector<int>& nums) {
+        if (i > n)
+            return 0;
+        if (dp[i] != -1) {
+            return dp[i];
         }
-
-        return prev;
+        int steal = nums[i] + solve(i + 2, n, nums);
+        int skip = solve(i + 1, n, nums);
+        return dp[i] = max(steal, skip);
     }
-
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if (n == 0) {
-            return 0;
-        }
+        memset(dp, -1, sizeof(dp));
         if (n == 1) {
             return nums[0];
         }
         if (n == 2) {
             return max(nums[0], nums[1]);
         }
-        // memset(dp, -1, sizeof(dp));
-        int take_0th_house = solve(nums, n - 2, 0);
-        // memset(dp, -1, sizeof(dp));
-        int take_1st_house = solve(nums, n - 1, 1);
-        return max(take_0th_house, take_1st_house);
+        // case 1
+        int take_0th_index = solve(0, n - 2, nums);
+        // case 2
+        memset(dp, -1, sizeof(dp));
+
+        int ingore_0th_index = solve(1, n - 1, nums);
+        return max(take_0th_index, ingore_0th_index);
     }
 };
