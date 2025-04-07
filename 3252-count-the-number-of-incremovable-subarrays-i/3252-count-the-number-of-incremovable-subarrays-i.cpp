@@ -1,6 +1,5 @@
 class Solution {
 public:
-    // Helper function to check if array is strictly increasing
     bool isStrictlyIncreasing(vector<int>& arr) {
         if (arr.size() <= 1)
             return true; 
@@ -26,22 +25,18 @@ public:
         if (st.size() == 1) {
             return 3;
         }
-        // Try all subarrays
         for (int i = 0; i < n; ++i) {
             for (int j = i; j < n; ++j) {
                 vector<int> remaining;
 
-                // Add elements before subarray
                 for (int k = 0; k < i; ++k) {
                     remaining.push_back(nums[k]);
                 }
 
-                // Add elements after subarray
                 for (int k = j + 1; k < n; ++k) {
                     remaining.push_back(nums[k]);
                 }
 
-                // Check if remaining array is strictly increasing
                 if (isStrictlyIncreasing(remaining)) {
                     count++;
                 }
