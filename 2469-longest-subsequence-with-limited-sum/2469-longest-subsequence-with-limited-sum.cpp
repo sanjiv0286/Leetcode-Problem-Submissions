@@ -1,25 +1,29 @@
 class Solution {
 public:
     vector<int> answerQueries(vector<int>& v, vector<int>& q) {
-        vector<int> ans;
+        sort(v.begin(), v.end());
         int n = v.size();
-        sort(v.begin(), v.end()); 
-        int m = q.size();
-        int ct = 0, check = 0;
-        for (int i = 0; i < m; i++) {
+
+        vector<int> prefix(n);
+        prefix[0] = v[0];
+        for (int i = 1; i < n; i++) {
+            prefix[i] = prefix[i - 1] + v[i];
+        }
+
+        vector<int> ans;
+        for (int i = 0; i < q.size(); i++) {
             int sum = q[i];
-            check = 0, ct = 0;
-            for (int j = 0; j < n; j++) {
-                check += v[j];
-                if (check <= sum) {
-                    ct++;
+            int l = 0, r = n - 1, res = -1;
+            while (l <= r) {
+                int mid = l + (r - l) / 2;  
+                if (prefix[mid] <= sum) {
+                    res = mid;
+                    l = mid + 1;
                 } else {
-                    // check = 0;
-                    // ct++;
-                    break;
+                    r = mid - 1;
                 }
             }
-            ans.push_back(ct);
+            ans.push_back(res + 1); 
         }
         return ans;
     }
