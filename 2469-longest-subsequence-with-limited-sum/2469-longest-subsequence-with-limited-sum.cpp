@@ -15,9 +15,8 @@ public:
             int sum = q[i];
             int l = 0, r = n - 1, res = -1;
             while (l <= r) {
-                // int mid = l + (r-1) / 2;
-                int mid = l + (r - l) / 2;
-
+                int mid = l + (r-l) / 2;
+                // int mid = l + (r - l) / 2;
                 if (prefix[mid] <= sum) {
                     res = mid;
                     l = mid + 1;
