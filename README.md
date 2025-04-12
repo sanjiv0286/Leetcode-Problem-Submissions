@@ -622,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1642-water-bottles) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2645-pass-the-pillow) |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1923-sentence-similarity-iii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
