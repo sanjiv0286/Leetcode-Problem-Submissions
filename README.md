@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2504-find-all-good-indices) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
 | [2873-prime-pairs-with-target-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2873-prime-pairs-with-target-sum) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -679,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2476-check-distances-between-same-letters](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2502-sort-the-people) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2727-number-of-senior-citizens](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -791,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2486-most-frequent-even-element) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 ## Shortest Path
 |  |
 | ------- |
@@ -854,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Brainteaser
 |  |
