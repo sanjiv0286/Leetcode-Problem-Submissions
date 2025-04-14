@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2411-spiral-matrix-iv](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2411-spiral-matrix-iv) |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2476-check-distances-between-same-letters](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2476-check-distances-between-same-letters) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Linked List
