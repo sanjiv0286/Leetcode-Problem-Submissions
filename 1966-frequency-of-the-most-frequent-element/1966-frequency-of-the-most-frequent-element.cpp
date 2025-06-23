@@ -11,7 +11,7 @@ public:
             ll ws = (r - l + 1) * nums[r];
             cs = cs + nums[r];
             ll op = ws - cs;
-            while (op > k) {
+            if (op > k) { //shrinnk
                 cs -= nums[l];
                 l++;
                 op = (ll)(r - l + 1) * nums[r] - cs;
