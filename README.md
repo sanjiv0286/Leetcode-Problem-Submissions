@@ -448,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2873-prime-pairs-with-target-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2873-prime-pairs-with-target-sum) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
@@ -651,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3199-distribute-candies-among-children-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3199-distribute-candies-among-children-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
@@ -862,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2873-prime-pairs-with-target-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2873-prime-pairs-with-target-sum) |
 | [3199-distribute-candies-among-children-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3199-distribute-candies-among-children-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -896,4 +900,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
