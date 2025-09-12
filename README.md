@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2481-strictly-palindromic-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2155-find-missing-observations) |
+| [2481-strictly-palindromic-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2481-strictly-palindromic-number) |
 | [2645-pass-the-pillow](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2645-pass-the-pillow) |
 | [2873-prime-pairs-with-target-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -895,6 +897,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Segment Tree
 |  |
