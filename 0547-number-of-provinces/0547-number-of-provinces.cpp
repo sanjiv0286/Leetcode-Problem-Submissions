@@ -1,41 +1,48 @@
 class Solution {
 public:
-    void bfs( unordered_map<int,vector<int>>&adj,int s,  vector<bool>&vis){
-        queue<int>q;
-        q.push(s);
-        vis[s]=true;
-        while(!q.empty()){
-            int u = q.front();
-            q.pop();
-            // cout<<u<<endl;
-            for(auto &v:adj[u]){
-                if(!vis[v]){
-                    vis[v]=true;
-                    q.push(v);
-                }
-            }
+    int find(vector<int>& parent, int i) {
+        if (parent[i] == i) {
+            return i;
+        }
+
+        return parent[i] = find(parent, parent[i]);
+    }
+
+    void Union(int x, int y, vector<int>& parent, vector<int>& rank) {
+        int px = find(parent, x);
+        int py = find(parent, y);
+        if (px == py) {
+            return;
+        }
+        if (rank[px] > rank[py]) {
+            parent[py] = px;
+        } else if (rank[py] > rank[px]) {
+            parent[px] = py;
+        } else {
+            parent[px] = py;
+            rank[py]++;
         }
     }
-    
+
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int  n = isConnected.size();
-        unordered_map<int,vector<int>>adj;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(isConnected[i][j]==1){
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);
+        int n = isConnected.size();
+        vector<int> parent(n), rank(n, 0);
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (isConnected[i][j] == 1) {
+                    Union(i, j, parent, rank);
                 }
             }
         }
-        int ct=0;
-        vector<bool>vis(n,false);
-        for(int i=0;i<n;i++){
-            if(vis[i]==false){
-                bfs(adj,i,vis);
-                ct++;
-            }
+
+        unordered_set<int> st;
+
+        for (int i = 0; i < n; i++) {
+            st.insert(find(parent, i));
         }
-        return ct;
+        return st.size();
     }
 };
