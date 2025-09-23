@@ -9,13 +9,19 @@ class Solution {
 
         Set<Character> set = new HashSet<>();
 
-        for (char c : s.toCharArray()) {
+        // for (char c : s.toCharArray()) {
+        //     if (c >= 'a' && c <= 'z') {
+        //         set.add(c);
+        //     }
+        // }
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
             if (c >= 'a' && c <= 'z') {
                 set.add(c);
             }
         }
 
-        return (set.size()==26);
+        return (set.size() == 26);
 
     }
 }
