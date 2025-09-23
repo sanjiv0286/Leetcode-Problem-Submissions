@@ -1,35 +1,28 @@
 class Solution {
     public boolean checkIfPangram(String s) {
-
         int n = s.length();
-
-        if (n < 26) {
+        if(n<26){
             return false;
         }
 
-        Set<Character> set = new HashSet<>();
+        boolean vis[]= new boolean[26];
 
-        // s = s.toLowerCase();
-        // for (int i = 0; i < s.length(); i++) {
-        //     char c = s.charAt(i);
-        //     if (c >= 'a' && c <= 'z') {
-        //         set.add(c);
-        //     }
-        // }
-
-        for (int i = 0; i < s.length(); i++) {
+        for(int i=0;i<n;i++){
             char c = s.charAt(i);
-            if (c >= 'A' && c <= 'Z') {
-                // c = (char) (c - 'A' + 'a');
-                c = (char) (c + 32);
+            if(c>='A' && c<='Z'){
+                vis[c-'A'] = true;
+            }
+            if(c>='a' && c<= 'z'){
+                vis[c-'a']= true;
+            }
 
-            }
-            if (c >= 'a' && c <= 'z') {
-                set.add(c);
-            }
         }
 
-        return (set.size() == 26);
-
+        for(int i=0;i<26;i++){
+            if(vis[i]==false){
+                return false;
+            }
+        }
+        return true;
     }
 }
