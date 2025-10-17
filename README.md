@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0213-house-robber-ii) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0344-reverse-string) |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0273-integer-to-english-words) |
