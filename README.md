@@ -386,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0643-maximum-average-subarray-i) |
