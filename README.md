@@ -432,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2132-convert-1d-array-into-2d-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2169-simple-bank-system) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2169-simple-bank-system) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2476-check-distances-between-same-letters](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2476-check-distances-between-same-letters) |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2155-find-missing-observations) |
+| [2169-simple-bank-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2169-simple-bank-system) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2645-pass-the-pillow) |
@@ -801,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0225-implement-stack-using-queues) |
+| [2169-simple-bank-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2169-simple-bank-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
