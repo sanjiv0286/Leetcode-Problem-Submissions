@@ -618,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Matrix
 |  |
 | ------- |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Recursion
 |  |
 | ------- |
