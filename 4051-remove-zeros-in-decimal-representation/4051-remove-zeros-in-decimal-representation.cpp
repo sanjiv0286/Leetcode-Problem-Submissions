@@ -1,15 +1,18 @@
 class Solution {
 public:
     long long removeZeros(long long n) {
-        string ne = "";
-        string res = to_string(n);
-        long long sz = res.size();
-        for (int i = 0; i < sz; i++) {
-            if (res[i] != '0') {
-                ne += res[i];
+        long long place =1;
+        long long res=0;
+        while(n>0){
+            int d = n%10;
+
+            if(d!=0){
+                res += d*place;
+                place *= 10;
             }
+
+            n = n /10;
         }
-        long long val = stoll(ne);
-        return val;
+        return res;
     }
 };
