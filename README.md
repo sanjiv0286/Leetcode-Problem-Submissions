@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -492,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
