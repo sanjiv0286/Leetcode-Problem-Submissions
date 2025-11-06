@@ -731,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [4052-equal-score-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4052-equal-score-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -906,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2504-find-all-good-indices](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2504-find-all-good-indices) |
+| [4052-equal-score-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4052-equal-score-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
