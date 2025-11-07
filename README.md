@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -930,12 +931,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Segment Tree
 |  |
 | ------- |
