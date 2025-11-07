@@ -458,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4058-compute-alternating-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4078-maximum-alternating-sum-of-squares) |
