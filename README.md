@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [4058-compute-alternating-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -626,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4051-remove-zeros-in-decimal-representation) |
+| [4058-compute-alternating-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4058-compute-alternating-sum) |
 ## Matrix
 |  |
 | ------- |
