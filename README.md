@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -626,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4058-compute-alternating-sum) |
 ## Matrix
@@ -925,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
