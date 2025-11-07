@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4008-restore-finishing-order](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4008-restore-finishing-order) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4008-restore-finishing-order) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
+| [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Recursion
 |  |
@@ -863,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2486-most-frequent-even-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
+| [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Shortest Path
 |  |
