@@ -1,22 +1,24 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        unordered_map<int, vector<int>> mp;
+        int n = nums.size();
         int mini = INT_MAX;
-
-        // Collect indices
-        for (int i = 0; i < nums.size(); i++) {
+        unordered_map<int, vector<int>> mp;
+        for (int i = 0; i < n; i++) {
             mp[nums[i]].push_back(i);
         }
-
-        // For each number, just check distance between i and i+2
-        for (auto& [num, v] : mp) {
-            if (v.size() < 3) continue;
-            for (int i = 0; i + 2 < v.size(); i++) {
-                mini = min(mini, 2 * (v[i+2] - v[i]));
+        for (auto& x : mp) {
+            int a = x.first;
+            auto& v = x.second;
+            if (v.size() < 3) {
+                continue;
+            }
+            for (int i = 0; i < v.size() - 2; i++) {
+                 mini =
+                    min(mini, abs(v[i + 1] - v[i]) + abs(v[i] - v[i + 2]) +
+                                  abs(v[i + 1] - v[i + 2]));
             }
         }
-
-        return (mini == INT_MAX) ? -1 : mini;
+        return (mini == INT_MAX)?-1:mini;
     }
 };
