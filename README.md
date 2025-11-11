@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4012-earliest-time-to-finish-one-task) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
 | [4058-compute-alternating-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -943,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
