@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4012-earliest-time-to-finish-one-task) |
+| [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
 | [4058-compute-alternating-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -505,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4008-restore-finishing-order) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -924,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2504-find-all-good-indices](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2504-find-all-good-indices) |
+| [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
 | [4052-equal-score-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4052-equal-score-substrings) |
 ## Bit Manipulation
 |  |
@@ -949,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
 ## Geometry
 |  |
 | ------- |
