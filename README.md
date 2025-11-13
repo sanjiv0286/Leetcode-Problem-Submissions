@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4008-restore-finishing-order](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4008-restore-finishing-order) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
+| [4055-longest-balanced-substring-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -753,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [4052-equal-score-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4052-equal-score-substrings) |
+| [4055-longest-balanced-substring-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4055-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -873,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
+| [4055-longest-balanced-substring-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Shortest Path
 |  |
@@ -915,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3199-distribute-candies-among-children-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3199-distribute-candies-among-children-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4055-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
