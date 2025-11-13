@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
+| [3963-number-of-perfect-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3963-number-of-perfect-pairs) |
 | [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4008-restore-finishing-order](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4008-restore-finishing-order) |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2481-strictly-palindromic-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3963-number-of-perfect-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3963-number-of-perfect-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -583,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2846-robot-collisions) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3963-number-of-perfect-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3963-number-of-perfect-pairs) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -694,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
+| [3963-number-of-perfect-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3963-number-of-perfect-pairs) |
 | [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4084-maximize-sum-of-squares-of-digits) |
