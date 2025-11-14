@@ -699,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3336-water-bottles-ii) |
 | [3963-number-of-perfect-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3963-number-of-perfect-pairs) |
 | [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Recursion
@@ -928,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2873-prime-pairs-with-target-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
