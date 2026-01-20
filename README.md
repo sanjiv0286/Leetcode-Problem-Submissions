@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -651,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -676,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0263-ugly-number) |
