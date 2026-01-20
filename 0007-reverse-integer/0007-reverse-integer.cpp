@@ -1,18 +1,14 @@
 class Solution {
 public:
     int reverse(int x) {
-        int revnum = 0;
-        int d = 0, num = 0;
-        while (x != 0) {
-            d = (x % 10);
-            if ((revnum > INT_MAX / 10) || (revnum < INT_MIN / 10)) {
-                return 0;
-            }
-           revnum = revnum * 10 + d;
-            x /= 10;
+        if (x == INT_MIN)
+            return 0;
+        string s = to_string(abs(x));
+        std:: reverse(s.begin(), s.end());
+        long long num = stoll(s);
+        if (num > INT_MAX || num < INT_MIN) {
+            return 0;
         }
-       
-
-        return revnum;
+        return (x > 0) ? (int)num : -(int)num;
     }
 };
