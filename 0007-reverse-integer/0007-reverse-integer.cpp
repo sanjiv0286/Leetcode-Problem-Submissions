@@ -16,21 +16,12 @@
 // };
 
 // ** Using modulo and division **
-// C++ me % (mod) aur / (division) negative numbers ke saath automatically kaam
-// karte hain, Isliye hume alag se sign handle karne ki zarurat hi nahi padti.
-// “Runtime errors occur when the program performs illegal operations during
-// runtime, such as integer overflow or memory access violations.”
 
 class Solution {
 public:
     int reverse(int x) {
         int revnum = 0;
         int d = 0;
-        // ✅ while (x != 0) → CORRECT
-        // Ye loop :
-        // Positive numbers ke liye chalega
-        // Negative numbers ke liye bhi chalega
-        // Last digit 0 hone par bhi sahi kaam karega
         while (x != 0) { // ****
             d = x % 10;
             if (revnum > INT_MAX / 10 || revnum < INT_MIN / 10) {
@@ -42,3 +33,4 @@ public:
         return revnum;
     }
 };
+
