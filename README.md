@@ -848,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
@@ -948,6 +949,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0338-counting-bits) |
