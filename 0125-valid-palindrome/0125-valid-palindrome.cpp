@@ -1,31 +1,21 @@
 class Solution {
 public:
-    bool ispal(string s) {
-        string t = s;
-        reverse(s.begin(), s.end());
-
-        if (s == t) {
-            return true;
-        }
-        return false;
-    }
-
-    bool isalnum(char c) {
-        return (c >= 'A' && c <= 'Z' || c >= 'a' && c <= 'z' ||
-                c >= '0' && c <= '9');
-    }
-
     bool isPalindrome(string s) {
-        string t = "";
-        for (int i = 0; i < s.size(); i++) {
-            if (isalnum(s[i])) {
-                t += tolower(s[i]);
+        int l = 0;
+        int r = s.size() - 1;
+        while (l < r) {
+            while (l < r && !isalnum(s[l])) {
+                l++;
             }
+            while (l < r && !isalnum(s[r])) {
+                r--;
+            }
+            if (tolower(s[l]) != tolower(s[r])) {
+                return false;
+            }
+            l++;
+            r--;
         }
-
-        if (ispal(t)) {
-            return true;
-        }
-        return false;
+        return true;
     }
 };
