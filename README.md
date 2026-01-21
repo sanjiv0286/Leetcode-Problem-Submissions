@@ -522,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0189-rotate-array) |
@@ -727,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0273-integer-to-english-words) |
