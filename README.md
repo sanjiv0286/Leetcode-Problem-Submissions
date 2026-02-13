@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0967-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -576,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1256-rank-transform-of-an-array) |
 | [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
@@ -694,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0650-2-keys-keyboard) |
+| [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1642-water-bottles) |
@@ -865,12 +868,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
 | [1917-maximum-average-pass-ratio](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 ## Merge Sort
@@ -995,5 +1000,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
