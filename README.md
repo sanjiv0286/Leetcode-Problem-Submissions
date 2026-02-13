@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
 | [1293-three-consecutive-odds](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0792-binary-search) |
+| [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1256-rank-transform-of-an-array) |
+| [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -745,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1250-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -867,6 +871,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
 | [1917-maximum-average-pass-ratio](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1917-maximum-average-pass-ratio) |
 ## Merge Sort
 |  |
@@ -910,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
 ## Monotonic Stack
 |  |
 | ------- |
