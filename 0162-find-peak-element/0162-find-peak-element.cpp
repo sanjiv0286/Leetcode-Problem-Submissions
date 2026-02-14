@@ -1,26 +1,20 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
-        int l = 0;
-        int h = nums.size() - 1;
-
-        while (l < h) {
-            int mid = (l + h) / 2;
-            if (nums[mid] >= nums[mid + 1]) {
-                // if mid is greater than the next element, then the peak is in
-                // the left half (including mid)
-                h = mid;
-            } else {
-                // if mid is less than or equal to the next element, then the
-                // peak is in the right half (excluding mid)
-                l = mid + 1;
+        int n = nums.size();
+        
+        if(n == 1) return 0;
+        
+        if(nums[0] > nums[1]) return 0;
+        
+        if(nums[n-1] > nums[n-2]) return n-1;
+        
+        for(int i = 1; i < n-1; i++){
+            if(nums[i] > nums[i-1] && nums[i] > nums[i+1]){
+                return i;
             }
         }
-
-        // l and h will converge to the peak element
-        return l;
+        
+        return -1; // logically won't reach here
     }
 };
