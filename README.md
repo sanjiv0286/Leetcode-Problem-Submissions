@@ -402,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0967-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
 | [0906-walking-robot-simulation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1039-find-the-town-judge) |
@@ -960,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
