@@ -1,28 +1,16 @@
 class Solution {
 public:
-    
-    bool isprime(int n){
-        if(n==0 || n==1){
-            return false;
-        }
-        int ct =0;
-        for(int i=2;i*i<=n;i++){
-            if(n%i==0){
-                return false;
-            }
-        }
-        return true;
-    }
-
-
     int countPrimeSetBits(int left, int right) {
-        int ans = 0;
-        for (int i = left; i <= right; i++) {
-            int ct = __builtin_popcount(i);
-            if (isprime(ct)) {
-                ans++;
+
+        int ct = 0;
+        unordered_set<int>prime{2,3,5,7,11,13,17,19};
+
+        for (int i = left; i <= right ; i++) {
+            int set_bits = __builtin_popcount(i);
+            if(prime.count(set_bits)){
+                ct++;
             }
         }
-        return ans;
+        return  ct;
     }
 };
