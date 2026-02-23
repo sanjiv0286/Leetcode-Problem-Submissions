@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0283-move-zeroes) |
@@ -693,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0273-integer-to-english-words) |
@@ -950,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0204-count-primes) |
 | [2873-prime-pairs-with-target-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2873-prime-pairs-with-target-sum) |
 | [3199-distribute-candies-among-children-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3199-distribute-candies-among-children-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -958,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0204-count-primes) |
 | [2873-prime-pairs-with-target-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3995-gcd-of-odd-and-even-sums) |
