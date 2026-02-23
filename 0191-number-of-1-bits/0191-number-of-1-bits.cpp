@@ -5,8 +5,8 @@ public:
         int ct=0;
 
         while(n){
-            ct += (n&1);
-            n >>= 1;
+            n  = n &(n-1);
+             ct++;
         }
 
         return ct;
