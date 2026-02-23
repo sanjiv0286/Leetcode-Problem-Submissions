@@ -701,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0650-2-keys-keyboard) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1236-n-th-tribonacci-number) |
@@ -983,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0868-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
