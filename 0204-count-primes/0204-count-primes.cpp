@@ -1,3 +1,7 @@
+// *Sieve of Eratosthenes
+// Final Time Complexity: O(nloglogn) 
+// Space Complexity: O(n)
+
 class Solution {
 public:
     int countPrimes(int n) {
