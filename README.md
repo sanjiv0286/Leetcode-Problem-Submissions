@@ -983,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0371-sum-of-two-integers) |
+| [0868-binary-gap](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0868-binary-gap) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
