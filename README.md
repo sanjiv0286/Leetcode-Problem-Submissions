@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0999-regions-cut-by-slashes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1484-linked-list-in-binary-tree) |
@@ -844,6 +845,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -855,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
