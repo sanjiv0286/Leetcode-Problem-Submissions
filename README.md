@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1511-count-number-of-teams) |
@@ -591,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
 | [1329-sort-the-matrix-diagonally](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1329-sort-the-matrix-diagonally) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -912,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2331-intersection-of-multiple-arrays) |
@@ -997,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
