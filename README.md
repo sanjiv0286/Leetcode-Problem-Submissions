@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0179-largest-number) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0273-integer-to-english-words) |
@@ -815,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
@@ -939,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0139-word-break) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
 ## Monotonic Stack
@@ -950,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1236-n-th-tribonacci-number) |
 ## Strongly Connected Component
