@@ -11,6 +11,6 @@ public:
             // res = ((res * (1LL << bits)) % M + num) % M;
             res = ((res << bits) % M + num) % M;
         }
-        return res;
+        return int(res);
     }
 };
