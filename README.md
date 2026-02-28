@@ -651,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0906-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1013,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
