@@ -5,17 +5,23 @@ public:
     }
 
     string trimTrailingVowels(string s) {
-        int n = s.size();
-        // int i =n-1;
-         for(int i=n-1;i>=0;i--){
-            if(isVowel(s[i])){
-                s.erase(i,1);
-                continue;
-            }
-            else{
+        stack<char> st;
+        for (auto& x : s) {
+            st.push(x);
+        }
+        while (!st.empty()) {
+            if (isVowel(st.top())) {
+                st.pop();
+            } else {
                 break;
             }
-         }
-        return s;
+        }
+        string t="";
+        while (!st.empty()) {
+            t += st.top();
+            st.pop();
+        }
+        reverse(t.begin(), t.end());
+        return t;
     }
 };
