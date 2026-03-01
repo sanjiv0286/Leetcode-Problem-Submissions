@@ -619,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1917-maximum-average-pass-ratio) |
@@ -776,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1720-crawler-log-folder](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1786-count-the-number-of-consistent-strings) |
