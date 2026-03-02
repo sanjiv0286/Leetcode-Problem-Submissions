@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
         map<int, vector<int>> mp;
-        vector<int> res;
         int m = mat.size();
         int n = mat[0].size();
         for (int i = 0; i < m; i++) {
@@ -10,6 +9,7 @@ public:
                 mp[i + j].push_back(mat[i][j]);
             }
         }
+        vector<int> res;
         bool flip = true;
         for (auto& x : mp) {
             if (flip) {
@@ -18,7 +18,7 @@ public:
             for (auto& y : x.second) {
                 res.push_back(y);
             }
-            flip = !flip;
+            flip = !flip; // toggle
         }
         return res;
     }
