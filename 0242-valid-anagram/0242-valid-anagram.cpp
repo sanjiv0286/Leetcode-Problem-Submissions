@@ -1,21 +1,26 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s==t){
+        if (s == t) {
             return true;
-        }
-        else if(s.size()!=t.size()){
+        } else if (s.size() != t.size()) {
             return false;
         }
-        unordered_map<char,int>mp;
-        for(auto &x:s){
-            mp[x]++;
+
+        vector<int> freq(26, 0);
+
+        for (auto& c : s) {
+            freq[c - 'a']++;
         }
-        for(auto &y:t){
-            if(mp.find(y)==mp.end()|| mp[y]==0){
+
+        for (auto& c : t) {
+            freq[c - 'a']--;
+        }
+
+        for (auto& count : freq) {
+            if (count != 0) {
                 return false;
             }
-            mp[y]--;
         }
         return true;
     }
