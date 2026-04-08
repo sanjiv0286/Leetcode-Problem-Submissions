@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3790-fruits-into-baskets-ii) |
 | [3861-minimum-capacity-box](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3861-minimum-capacity-box) |
+| [3862-find-the-smallest-balanced-index](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3862-find-the-smallest-balanced-index) |
 | [3963-number-of-perfect-pairs](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3963-number-of-perfect-pairs) |
 | [3994-find-the-least-frequent-digit](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3994-find-the-least-frequent-digit) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3998-minimum-operations-to-equalize-array) |
@@ -1009,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2504-find-all-good-indices](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2504-find-all-good-indices) |
+| [3862-find-the-smallest-balanced-index](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3862-find-the-smallest-balanced-index) |
 | [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
 | [4052-equal-score-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4052-equal-score-substrings) |
 ## Bit Manipulation
