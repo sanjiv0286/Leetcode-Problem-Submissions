@@ -5,18 +5,18 @@ public:
         for (auto& x : nums) {
             mp[x]++;
         }
-        vector<pair<int,int>>pa(mp.begin(),mp.end());
-        auto lamda = [](pair<int,int>& a, pair<int,int>& b) {
-            return a.second > b.second;
-        };
-        sort(pa.begin(), pa.end(), lamda);
-        vector<int>res;
-        for(auto &x:pa){
-            if(k>0)
-            res.push_back(x.first);
+        vector<pair<int, int>> pa;
+        for (auto& x : mp) {
+            pa.push_back({x.second, x.first});//**************
+        }
+        // sort(pa.begin(), pa.end(), greater<pair<int,int>>());//***********
+        sort(pa.rbegin(),pa.rend());
+        vector<int> res;
+        for (auto& x : pa) {
+            if (k > 0)
+                res.push_back(x.second);
             k--;
         }
-
         return res;
     }
 };
