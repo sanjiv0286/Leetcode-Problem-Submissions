@@ -393,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0726-number-of-atoms) |
@@ -591,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -906,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0190-reverse-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [4045-longest-balanced-subarray-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4045-longest-balanced-subarray-i) |
@@ -913,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1268-search-suggestions-system) |
@@ -924,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -932,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0948-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1058,6 +1065,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Rolling Hash
 |  |
