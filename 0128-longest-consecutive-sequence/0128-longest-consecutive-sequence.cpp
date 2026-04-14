@@ -15,7 +15,7 @@ public:
             if (nums[i] == nums[i - 1] + 1) {
                 ct++;
             } else if (nums[i] == nums[i - 1]) {
-                continue;
+                ct=ct;
             } else {
                 ct = 1;
             }
