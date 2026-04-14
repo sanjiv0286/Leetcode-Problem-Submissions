@@ -1,22 +1,55 @@
 class Solution {
 public:
+    bool validSub(vector<vector<char>>& board, int sr, int er, int sc, int ec) {
+        unordered_set<char> st;
+        for (int row = sr; row <= er; row++) {
+            for (int col = sc; col <= ec; col++) {
+                char ch = board[row][col];
+                if (ch == '.')
+                    continue;
+                if (st.count(ch))
+                    return false;
+                st.insert(ch);
+            }
+        }
+        return true;
+    }
+
     bool isValidSudoku(vector<vector<char>>& b) {
-        unordered_set<string> st;
         for (int i = 0; i < 9; i++) {
+            unordered_set<char> st;
+
             for (int j = 0; j < 9; j++) {
                 if (b[i][j] == '.') {
                     continue;
                 }
-                string row = string(1, b[i][j]) + "_row_" + to_string(i);
-                string col = string(1, b[i][j]) + "_col_" + to_string(j);
-                string box = string(1, b[i][j]) + "_box_" + to_string(i / 3) +
-                             "_" + to_string(j / 3);
-                if (st.count(row) || st.count(col) + st.count(box)) {
+                if (st.count(b[i][j])) {
                     return false;
                 }
-                st.insert(row);
-                st.insert(col);
-                st.insert(box);
+                st.insert(b[i][j]);
+            }
+        }
+
+        for (int j = 0; j < 9; j++) {
+            unordered_set<char> st;
+            for (int i = 0; i < 9; i++) {
+                int ch = b[i][j];
+                if (ch == '.') {
+                    continue;
+                }
+                if (st.count(ch)) {
+                    return false;
+                }
+                st.insert(ch);
+            }
+        }
+
+        for (int sr = 0; sr < 9; sr += 3) {
+            int er = sr + 2;
+            for (int sc = 0; sc < 9; sc += 3) {
+                int ec = sc + 2;
+                if (!validSub(b, sr, er, sc, ec))
+                    return false;
             }
         }
         return true;
