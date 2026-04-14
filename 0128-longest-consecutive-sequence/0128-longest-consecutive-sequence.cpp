@@ -10,12 +10,12 @@ public:
         }
         sort(nums.begin(), nums.end());
         int ct = 1;
-        int maxi = 0;
+        int maxi = 1;
         for (int i = 1; i < n; i++) {
             if (nums[i] == nums[i - 1] + 1) {
                 ct++;
             } else if (nums[i] == nums[i - 1]) {
-                ct=ct;
+                continue;
             } else {
                 ct = 1;
             }
