@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0054-spiral-matrix) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0146-lru-cache) |
@@ -687,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0059-spiral-matrix-ii) |
