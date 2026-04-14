@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0162-find-peak-element) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0217-contains-duplicate) |
@@ -1078,4 +1080,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
