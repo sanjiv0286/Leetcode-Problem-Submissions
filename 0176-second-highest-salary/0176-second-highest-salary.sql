@@ -1,1 +1,3 @@
-select max(e1.salary) as SecondHighestSalary from employee as e1 where 1 = (select count(distinct e2.salary) from employee as e2 where e2.salary> e1.salary);
+# Write your MySQL query statement below
+
+select Max(salary) as SecondHighestSalary  from employee where salary <> (select max(salary) from employee);
