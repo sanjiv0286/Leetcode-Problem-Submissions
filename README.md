@@ -819,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4052-equal-score-substrings](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4052-equal-score-substrings) |
 | [4055-longest-balanced-substring-i](https://github.com/sanjiv0286/Leetcode-Problem-Submissions/tree/master/4055-longest-balanced-substring-i) |
 ## Stack
